@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercalidate",
+        "uuid": 10352530,
+        "checksum": "l9a1se"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
